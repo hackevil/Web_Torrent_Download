@@ -2,8 +2,8 @@
 
 // DB settings
 $host = 'localhost';
-$user = '';
-$pass = '';
+$user = 'dvmsv';
+$pass = 'Ta6ptf!@!8';
 $db = '';
 
 
@@ -14,7 +14,7 @@ $db = '';
 // Various Other Settings
 
 $allowed_size = 150;  // in mb for new user
-$enable_registration = 0; // 1 means yes and any other value means no
+$enable_registration = 1; // 1 means yes and any other value means no
 
 $website_logo = 'https://dl.dropboxusercontent.com/s/ukko5lri6qwcs2h/cooltext281897463696454.png';
 $logo_width = '30';
